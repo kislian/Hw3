@@ -74,6 +74,7 @@ System.out.println("Значение переменной varFloat"+" c типо
         System.out.println("Потребуется в среднем "+ countDay1 +" дней");
         System.out.println("Для того чтобы спортсмену сбросить "+weigth +" кг при похудении " +lostWiegthDayGr2+" в день" );
         System.out.println("Потребуется в среднем "+ countDay2 +" дней");
+        //*****************восьмое задание***********************
         System.out.println("Восьмое   задание");
         int payMashaMonth=67_760;
         int payDenisMonth=83_690;
@@ -87,5 +88,6 @@ System.out.println("Значение переменной varFloat"+" c типо
         System.out.println("Годовой доход вырос на "+(newPayDenisYear-payDenisMonth*12)+" рублей");
         System.out.println("Кристина теперь получает в месяц  "+(payKristinaMonth+payKristinaMonth/10) +" рублей");
         System.out.println("Годовой доход вырос на "+(newPayKristinaYear-payKristinaMonth*12)+" рублей");
+
     }
 }
